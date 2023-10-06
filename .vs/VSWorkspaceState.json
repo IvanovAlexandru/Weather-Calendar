@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Persistence",
+    "\\Persistence\\Resources",
+    "\\Proiect-IP",
+    "\\UnitTest",
+    "\\UnitTest\\UnitTest",
+    "\\UnitTest\\UnitTest\\PersistenceTests",
+    "\\UnitTest\\UnitTest\\WeatherTests",
+    "\\Weather"
+  ],
+  "SelectedNode": "\\UnitTest\\UnitTest\\WeatherTests\\WeatherTests.cs",
+  "PreviewInSolutionExplorer": false
+}
